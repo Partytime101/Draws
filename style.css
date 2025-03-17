@@ -321,6 +321,31 @@ a{
     margin-bottom: 2rem;
 
 }
+.head{
+    width: 1140px;
+    max-width: 80%;
+    margin: auto;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    z-index: 100;
+}
+
+.head a{
+    color:#56b3bb;
+    margin-right: 40px;
+    font-size: 1.2rem;
+
+}
+
+.head a:hover{
+    color:white;
+
+}
+
+
+
 
 .about{
     min-height: 100vh;
