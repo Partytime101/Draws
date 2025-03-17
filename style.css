@@ -22,19 +22,19 @@ header{
     z-index: 100;
 }
 
-header a{
+.header a{
     color:#56b3bb;
     margin-right: 40px;
     font-size: 1.2rem;
 
 }
 
-header a:hover{
+.header a:hover{
     color:white;
 
 }
 
-header .fab{    
+.header .fab{    
     left: 5rem;
 
 }
