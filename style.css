@@ -330,7 +330,7 @@ header{
 
 
     width:100%;
-    background-image: url('../one-piece.jpg');
+    background-image: url('..one-piece.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
