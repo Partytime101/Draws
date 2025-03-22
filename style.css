@@ -351,7 +351,7 @@ a{
     min-height: 100vh;
     display: grid;
     grid-template-rows: auto 1fr auto;
-    grid-template-columns: minmax(0, 1fr);
+    grid-template-columns: minmax(0,100%, 1fr);
 
 
     width:100%;
